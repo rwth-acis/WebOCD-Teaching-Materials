@@ -14,4 +14,12 @@ Students at the RWTH Aachen University can easily use the [Jupyter Cluster](http
 
 ![](figures/interface.png)
 
-On the left, one can choose between different menues like the File Browser and the Extension Manager. Click the *Git* tab to clone the GitHub repository of the teaching materials. Choose the option *Clone a Repository* and paste the following link: https://github.com/rwth-acis/WebOCD-Teaching-Materials. Clicking the *CLONE* button clones the repository which can be accessed using the File Browser. Now, all contained notebooks can be opened and started.
+On the left, one can choose between different menues like the File Browser and the Extension Manager.
+
+![](figures/interfaceSidebar.jpg)
+
+Click the *Git* tab to clone the GitHub repository of the teaching materials. Choose the option *Clone a Repository*
+
+![](figures/interfaceCloneButton.jpg)
+
+and paste the following link: https://github.com/rwth-acis/WebOCD-Teaching-Materials. Clicking the *CLONE* button clones the repository which can be accessed using the File Browser. Now, all contained notebooks can be opened and started.
